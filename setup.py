@@ -26,6 +26,6 @@ setup(
     author='Howw0',
     url='https://github.com/Howw0/cbzprocessor',
     download_url='https://github.com/Howw0/cbzprocessor.git',
-    keywords='ollama',
+    keywords='cbz',
     classifiers=classifiers,
     )
